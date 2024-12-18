@@ -1,6 +1,8 @@
 # model_profit
 Profit efficiency Data Envelopment Analysis (DEA) model Use model_profit (deaR) With (in) R Software
 
+https://www.youtube.com/watch?v=W-3ANStbqa0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
